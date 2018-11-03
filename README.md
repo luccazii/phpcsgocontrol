@@ -15,6 +15,5 @@
 <li>User login by SteamAPI;</li>
 <li>new Template;</li>
 </ul>
-<p>.<br>
-.</p>
+<br>
 <h6><a id="v001_alpha_21"></a>v0.0.1 alpha</h6>
